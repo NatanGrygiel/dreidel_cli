@@ -3,4 +3,5 @@ project(dreidel_cli)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(dreidel_cli main.cpp)
+add_executable(dreidel_cli main.cpp
+        dreidel.h)
