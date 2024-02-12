@@ -1,0 +1,3 @@
+/home/richter/CLionProjects/dreidel_cli/cmake-build-debug/CMakeFiles/dreidel_cli.dir
+/home/richter/CLionProjects/dreidel_cli/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/richter/CLionProjects/dreidel_cli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
